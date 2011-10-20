@@ -8,9 +8,11 @@
 
 <h1>FancyTweet Projects:</h1>
 
-<h2><a href="tit">Twitter Image Transloader</a> 
+<h2><a href="tit">Twitter Image Transloader</a></h2>
 
-<h2><a href="tweet">The most lightweight and cheapest tweeting client</a>
+<h2><a href="tweet">The most lightweight and cheapest tweeting client</a></h2>
+
+<h2><a href="dedicatweet">Schedule your dedicated tweets</a></h2>
 
 
     

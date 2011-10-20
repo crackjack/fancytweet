@@ -10,9 +10,9 @@
         }
         else{
 ?>
-        <a href="<?php echo $base?>/signin">Sign In with Twitter</a>
+        <a href="<?php echo $base; ?>/signin">Sign In with Twitter</a>
         <br/>
-        <a href="<?php echo $base?>/login">Login with FancyTweet Password</a>
+        <a href="<?php echo $base; ?>/login">Login with FancyTweet Password</a>
 
 <?php
         }

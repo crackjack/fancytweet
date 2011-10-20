@@ -1,8 +1,7 @@
 <?php
 session_start();
 ?>
-<htmL>
-    <head>
+   <head>
         <title>Simple Tweet</title>
     </head>
     <body style="margin:0 auto;text-align: center;">
